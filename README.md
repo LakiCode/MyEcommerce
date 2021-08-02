@@ -57,8 +57,8 @@ rfuke@loffacorp.com
 
 ## App screenshots
 
-![alt text](/Images/insomnia.JPG 'Insomnia get results')
-![alt text](/Images/mySQL.JPG 'Output from app MySQL query')
+![alt text](/images/insomnia.JPG 'Insomnia get results')
+![alt text](/images/mySQL.JPG 'Output from app MySQL query')
 
 ### Application Demo Video
 
