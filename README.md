@@ -6,8 +6,8 @@ My Ecommerce Back End
 
 [![Node js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://shields.io/)  
 [![MySQL](https://img.shields.io/badge/MySQL-%23E34F26.svg?style=for-the-badge&logo=MySLQ&logoColor=white)](https://shields.io/)  
-[![inquirer](https://img.shields.io/badge/inquirer-%231572B6.svg?style=for-the-badge&logo=inquirer&logoColor=white)](https://shields.io/)
-  [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://shields.io/)
+[![inquirer](https://img.shields.io/badge/inquirer-%231572B6.svg?style=for-the-badge&logo=inquirer&logoColor=white)](https://shields.io/)  
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://shields.io/)
 
 ## Description
 
@@ -23,9 +23,9 @@ For week 13, challenge for thiw week is to build the back end for an e-commerce 
 ## Installation
 
 Run:  
- 'npm install' to install all required modules (stored in package.json)
-'Use the schema.sql file in the db folder to create your database using MySQL shell commands.
-'run 'npm \_ run seed' to seed data to your database
+ 'npm install' to install all required modules (stored in package.json)  
+'Use the schema.sql file in the db folder to create your database using MySQL shell commands.  
+'run 'npm \_ run seed' to seed data to your database  
 \*install mySQL if you do not have"
 
 ## Usage
